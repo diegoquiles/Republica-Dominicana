@@ -46,6 +46,13 @@ p {
     text-align: left;
     font-family: verdana;
     font-size: 26px;  
+    line-height:2;
+    text-indent: 50px;
+    margin-left:20px;
+    margin-right:20px;
+    text-align: justify;
+}
+
 }
 table, th, td {
   border: 1px solid HoneyDew;
